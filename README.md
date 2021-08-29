@@ -21,13 +21,6 @@ A simple web-based classroom application that allows instructors to add courses 
 ----
 ### More applications built using this stack
 
-* [MERN Skeleton](https://github.com/shamahoque/mern-social/tree/second-edition)
-* [MERN Social](https://github.com/shamahoque/mern-social/tree/second-edition)
-* [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tree/second-edition)
-* [MERN Expense Tracker](https://github.com/shamahoque/mern-expense-tracker)
-* [MERN Mediastream](https://github.com/shamahoque/mern-mediastream/tree/second-edition)
-* [MERN VR Game](https://github.com/shamahoque/mern-vrgame/tree/second-edition)
-
 Learn more at [mernbook.com](http://www.mernbook.com/)
 
 ----
