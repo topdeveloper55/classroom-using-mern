@@ -4,8 +4,6 @@ A simple web-based classroom application that allows instructors to add courses 
 
 ![MERN Skeleton](https://mernbook.s3.amazonaws.com/git+/classroom.png "MERN Skeleton") 
 
-### [Live Demo](http://classroom.mernbook.com/ "MERN Classroom") 
-
 #### What you need to run this code
 1. Node (13.12.0)
 2. NPM (6.14.4) or Yarn (1.22.4)
