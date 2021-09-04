@@ -17,11 +17,6 @@ A simple web-based classroom application that allows instructors to add courses 
    - To run the application for development, run ```  npm run development  ``` or ``` yarn development ```
 4. Open [localhost:3000](http://localhost:3000/) in the browser
 ----
-### More applications built using this stack
-
-Learn more at [mernbook.com](http://www.mernbook.com/)
-
-----
 ## Get the book
 #### [Full-Stack React Projects - Second Edition](https://www.packtpub.com/web-development/full-stack-react-projects-second-edition)
 *Learn MERN stack development by building modern web apps using MongoDB, Express, React, and Node.js*
